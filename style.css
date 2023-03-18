@@ -1,0 +1,22 @@
+.image{
+    height: 400px;
+    width: 400px;
+    border-radius: 20px;
+}
+.container1{
+    background-color: grey;
+    height: 600px;
+    width: 80%;
+    border-radius: 20px;
+    border-radius: 20px;
+}
+.Main{
+    padding-top: 100px;
+    float: left;
+    width: 40%;
+    
+}
+.h2{
+    background-color: white;
+    border-radius: 20px;
+}
